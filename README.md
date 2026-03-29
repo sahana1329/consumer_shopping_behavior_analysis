@@ -10,18 +10,27 @@ Dataset
 The dataset contains customer-level shopping information, including:
 
 Demographics (age, gender)
+
 Product categories
+
 Purchase amounts
+
 Discounts and promo usage
+
 Review ratings
+
 Seasonal trends
+
 Payment methods
+
 Purchase frequency / previous purchases
 
 Tools & Technologies
 
 Python (Pandas, NumPy) – Data cleaning and exploratory data analysis (EDA)
+
 SQL (executed via VS Code) – Data aggregation and KPI validation using queries and CTEs
+
 Power BI – Interactive dashboard and data visualization
 
 Project Workflow
