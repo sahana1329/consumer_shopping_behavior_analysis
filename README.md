@@ -1,5 +1,6 @@
 # consumer_shopping_behavior_analysis
 Data Analytics project showcasing Consumer Behavior Analysis using python, SQL and Power BI
+
 Overview
 
 This project analyzes customer shopping behavior to uncover key factors that influence purchase decisions and repeat buying. The goal is to help businesses improve customer engagement, optimize marketing strategies, and enhance overall sales performance using data-driven insights.
@@ -16,28 +17,35 @@ Review ratings
 Seasonal trends
 Payment methods
 Purchase frequency / previous purchases
+
 Tools & Technologies
+
 Python (Pandas, NumPy) – Data cleaning and exploratory data analysis (EDA)
 SQL (executed via VS Code) – Data aggregation and KPI validation using queries and CTEs
 Power BI – Interactive dashboard and data visualization
 
 Project Workflow
+
 1. Data Loading
 Imported the dataset into Python for analysis
+
 2. Data Cleaning & Preparation
 Handled missing values
 Standardized column formats
 Removed inconsistencies and redundant fields
+
 3. Exploratory Data Analysis (EDA)
 Analyzed customer demographics and spending patterns
 Studied the impact of discounts and review ratings
 Identified seasonal trends and repeat purchase behavior
+
 4. SQL Analysis
 Wrote SQL queries to compute key metrics such as:
 Average purchase value
 Purchase frequency
 Discount impact
 Used CTEs for better query structure and readability
+
 5. Data Visualization (Power BI)
 Built an interactive dashboard to display:
 Customer segments
