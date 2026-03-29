@@ -56,6 +56,7 @@ Identify high-value customer segments
 
 
 Results & Insights
+
 Discounts and positive review ratings significantly influence repeat purchases
 Seasonal trends impact product demand across categories
 Customers using digital payment methods show higher engagement
