@@ -61,7 +61,9 @@ Discounts and positive review ratings significantly influence repeat purchases
 Seasonal trends impact product demand across categories
 Customers using digital payment methods show higher engagement
 Targeted marketing strategies can potentially improve customer retention by ~8–12%
+
 Business Impact
+
 Enables data-driven marketing decisions
 Supports targeted promotions instead of blanket discounts
 Improves customer engagement and retention strategies
