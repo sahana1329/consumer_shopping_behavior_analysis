@@ -36,31 +36,49 @@ Power BI – Interactive dashboard and data visualization
 Project Workflow
 
 1. Data Loading
+
 Imported the dataset into Python for analysis
 
 2. Data Cleaning & Preparation
+
 Handled missing values
+
 Standardized column formats
+
 Removed inconsistencies and redundant fields
 
 3. Exploratory Data Analysis (EDA)
+
 Analyzed customer demographics and spending patterns
+
 Studied the impact of discounts and review ratings
+
 Identified seasonal trends and repeat purchase behavior
 
 4. SQL Analysis
+
 Wrote SQL queries to compute key metrics such as:
+
 Average purchase value
+
 Purchase frequency
+
 Discount impact
+
 Used CTEs for better query structure and readability
 
 5. Data Visualization (Power BI)
+
 Built an interactive dashboard to display:
+
 Customer segments
+
 Seasonal demand trends
+
 Discount effectiveness
+
 Payment method preferences
+
 Enabled drill-down analysis for business users
 
 Dashboard
