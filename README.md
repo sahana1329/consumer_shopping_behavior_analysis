@@ -4,7 +4,7 @@ Overview
 
 This project analyzes customer shopping behavior to uncover key factors that influence purchase decisions and repeat buying. The goal is to help businesses improve customer engagement, optimize marketing strategies, and enhance overall sales performance using data-driven insights.
 
-📂 Dataset
+Dataset
 
 The dataset contains customer-level shopping information, including:
 
@@ -16,11 +16,12 @@ Review ratings
 Seasonal trends
 Payment methods
 Purchase frequency / previous purchases
-🛠️ Tools & Technologies
+Tools & Technologies
 Python (Pandas, NumPy) – Data cleaning and exploratory data analysis (EDA)
 SQL (executed via VS Code) – Data aggregation and KPI validation using queries and CTEs
 Power BI – Interactive dashboard and data visualization
-🔄 Project Workflow
+
+Project Workflow
 1. Data Loading
 Imported the dataset into Python for analysis
 2. Data Cleaning & Preparation
@@ -44,19 +45,22 @@ Seasonal demand trends
 Discount effectiveness
 Payment method preferences
 Enabled drill-down analysis for business users
-📊 Dashboard
+
+Dashboard
 
 The Power BI dashboard provides a clear view of customer behavior and key business metrics, allowing stakeholders to:
 
 Explore trends across demographics and categories
 Analyze repeat purchase patterns
 Identify high-value customer segments
-📈 Results & Insights
+
+
+Results & Insights
 Discounts and positive review ratings significantly influence repeat purchases
 Seasonal trends impact product demand across categories
 Customers using digital payment methods show higher engagement
 Targeted marketing strategies can potentially improve customer retention by ~8–12%
-🚀 Business Impact
+Business Impact
 Enables data-driven marketing decisions
 Supports targeted promotions instead of blanket discounts
 Improves customer engagement and retention strategies
